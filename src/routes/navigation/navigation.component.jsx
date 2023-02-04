@@ -31,8 +31,7 @@ const Navigation = () => {
             </span>
           ) : (
             <Link className="nav-link" to="/auth">
-              {" "}
-              SIGN IN{" "}
+              SIGN IN
             </Link>
           )}
           <CartIcon />
