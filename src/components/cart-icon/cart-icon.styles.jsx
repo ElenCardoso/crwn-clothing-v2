@@ -8,7 +8,7 @@ export const ShoppingIcon = styled(ShoppingSvg)`
 `;
 
 export const CartIconContainer = styled.div`
-  width: 35px;
+  width: 45px;
   height: 45px;
   position: relative;
   display: flex;
